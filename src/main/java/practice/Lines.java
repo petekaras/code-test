@@ -1,4 +1,4 @@
-package tests;
+package practice;
 
 /**
  * [1] Given a text, divide it into multiple lines, in such a way that every line is no longer than given number of characters

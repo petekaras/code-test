@@ -1,2 +1,2 @@
 # code-test
-practice code tests
+practice code practice
